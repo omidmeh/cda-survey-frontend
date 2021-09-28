@@ -29,15 +29,11 @@ question_string = {
 }
 
 
-# SHEET_ID = '1-xmouDyNf38kNjMy--iJFonR-yddRqWvexuEFCtQIj8'
-# SHEET_NAME = 'Form Responses 1'
-
-
 WIDTH = 600
 
 menu_items = {
-	'Get help': 'https://www.ibm.com',
-	'Report a bug': 'https://www.ibm.com',
+	'Get help': 'https://github.com/omidmeh/cda-survey-frontend',
+	'Report a bug': 'https://github.com/omidmeh/cda-survey-frontend/issues/new',
 	'About': '''
 	 ## My Custom App
 
