@@ -3,5 +3,5 @@ applications:
 - memory: 1G
   disk_quota: 2G
   name: cda-surveys
-  instances: 2
-  
+  instances: 1
+
