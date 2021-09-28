@@ -35,11 +35,12 @@ menu_items = {
 	'Get help': 'https://github.com/omidmeh/cda-survey-frontend',
 	'Report a bug': 'https://github.com/omidmeh/cda-survey-frontend/issues/new',
 	'About': '''
-	 ## My Custom App
+	 ## CDA Survey Results
 
-	 Some markdown to show in the About dialog.
+	 This app helps you render the survey results for CDA Surveys.
 	'''
 }
+
 ##
 load_dotenv()
 SHEET_ID = os.environ['SHEET_ID']
